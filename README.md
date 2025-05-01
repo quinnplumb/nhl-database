@@ -1,4 +1,4 @@
-This is a NHL database with all 30 NHL teams.
+This is a NHL database with all 32 NHL teams.
 
 This database allows users to view the contracts of various players in the NHL
 
